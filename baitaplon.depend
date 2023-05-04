@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1678580233 source:h:\cppblocks\baitaplon\commonfunc.cpp
+	"Commonfunc.h"
+
+1678699340 source:h:\cppblocks\baitaplon\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"Commonfunc.h"
+	"baseobject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"Explosion.h"
+
+1677251593 source:h:\cppblocks\baitaplon\src\baseobject.cpp
+	"baseobject.h"
+
+1677251932 h:\cppblocks\baitaplon\include\baseobject.h
+
+1678551921 h:\cppblocks\baitaplon\commonfunc.h
+	<windows.h>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+
+1677343435 h:\cppblocks\baitaplon\baseobject.h
+	"Commonfunc.h"
+
+1677463640 source:h:\cppblocks\baitaplon\baseobject.cpp
+	"BaseObject.h"
+
+1677425488 h:\cppblocks\baitaplon\game_map.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1677335673 source:h:\cppblocks\baitaplon\game_map.cpp
+	"game_map.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+
+1678631346 source:h:\cppblocks\baitaplon\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1678700068 h:\cppblocks\baitaplon\mainobject.h
+	<vector>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1677467914 source:h:\cppblocks\baitaplon\imptimer.cpp
+	"ImpTimer.h"
+	"Commonfunc.h"
+
+1677467914 h:\cppblocks\baitaplon\imptimer.h
+
+1678468562 source:h:\cppblocks\baitaplon\bulletobject.cpp
+	"BulletObject.h"
+
+1678464122 h:\cppblocks\baitaplon\bulletobject.h
+	"BaseObject.h"
+	"Commonfunc.h"
+
+1678694346 h:\cppblocks\baitaplon\threatsobject.h
+	"Commonfunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<iostream>
+
+1678631923 source:h:\cppblocks\baitaplon\threatsobject.cpp
+	"ThreatsObject.h"
+	"SDL.h"
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+
+1678696610 source:h:\cppblocks\baitaplon\explosion.cpp
+	"Explosion.h"
+
+1678694818 h:\cppblocks\baitaplon\explosion.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1677463640 source:h:\cppblocks\mygame\baseobject.cpp
+	"BaseObject.h"
+
+1677343435 h:\cppblocks\mygame\baseobject.h
+	"Commonfunc.h"
+
+1679238135 h:\cppblocks\mygame\commonfunc.h
+	<windows.h>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1679241869 source:h:\cppblocks\mygame\bulletobject.cpp
+	"BulletObject.h"
+
+1678464122 h:\cppblocks\mygame\bulletobject.h
+	"BaseObject.h"
+	"Commonfunc.h"
+
+1678580233 source:h:\cppblocks\mygame\commonfunc.cpp
+	"Commonfunc.h"
+
+1678696610 source:h:\cppblocks\mygame\explosion.cpp
+	"Explosion.h"
+
+1678694818 h:\cppblocks\mygame\explosion.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1678891759 source:h:\cppblocks\mygame\game_map.cpp
+	"game_map.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+
+1678871713 h:\cppblocks\mygame\game_map.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1677467914 source:h:\cppblocks\mygame\imptimer.cpp
+	"ImpTimer.h"
+	"Commonfunc.h"
+
+1677467914 h:\cppblocks\mygame\imptimer.h
+
+1681022399 source:h:\cppblocks\mygame\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1679282768 h:\cppblocks\mygame\mainobject.h
+	<vector>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"Explosion.h"
+
+1679155779 source:h:\cppblocks\mygame\threatsobject.cpp
+	"ThreatsObject.h"
+	"SDL.h"
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+
+1679155762 h:\cppblocks\mygame\threatsobject.h
+	"Commonfunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<iostream>
+
+1679734113 source:h:\cppblocks\mygame\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	"Commonfunc.h"
+	"baseobject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"Explosion.h"
+	"TextObject.h"
+	"TextNote.h"
+
+1679198251 h:\cppblocks\mygame\textobject.h
+	"Commonfunc.h"
+	<SDL_ttf.h>
+
+1679198146 source:h:\cppblocks\mygame\textobject.cpp
+	"TextObject.h"
+
+1679220646 h:\cppblocks\mygame\textnote.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1679220946 source:h:\cppblocks\mygame\textnote.cpp
+	"TextNote.h"
+
+1677463640 source:h:\cppblocks\mygame1\baseobject.cpp
+	"BaseObject.h"
+
+1677343435 h:\cppblocks\mygame1\baseobject.h
+	"Commonfunc.h"
+
+1679238135 h:\cppblocks\mygame1\commonfunc.h
+	<windows.h>
+	<string>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1679241869 source:h:\cppblocks\mygame1\bulletobject.cpp
+	"BulletObject.h"
+
+1678464122 h:\cppblocks\mygame1\bulletobject.h
+	"BaseObject.h"
+	"Commonfunc.h"
+
+1678580233 source:h:\cppblocks\mygame1\commonfunc.cpp
+	"Commonfunc.h"
+
+1678696610 source:h:\cppblocks\mygame1\explosion.cpp
+	"Explosion.h"
+
+1678694818 h:\cppblocks\mygame1\explosion.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1678891759 source:h:\cppblocks\mygame1\game_map.cpp
+	"game_map.h"
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+
+1678871713 h:\cppblocks\mygame1\game_map.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1677467914 source:h:\cppblocks\mygame1\imptimer.cpp
+	"ImpTimer.h"
+	"Commonfunc.h"
+
+1677467914 h:\cppblocks\mygame1\imptimer.h
+
+1683081606 source:h:\cppblocks\mygame1\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	"Commonfunc.h"
+	"baseobject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"Explosion.h"
+	"TextObject.h"
+	"TextNote.h"
+
+1679282768 h:\cppblocks\mygame1\mainobject.h
+	<vector>
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	"Explosion.h"
+
+1682567658 h:\cppblocks\mygame1\threatsobject.h
+	"Commonfunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<iostream>
+
+1679198251 h:\cppblocks\mygame1\textobject.h
+	"Commonfunc.h"
+	<SDL_ttf.h>
+
+1679220646 h:\cppblocks\mygame1\textnote.h
+	"Commonfunc.h"
+	"BaseObject.h"
+
+1681022399 source:h:\cppblocks\mygame1\mainobject.cpp
+	"MainObject.h"
+	<iostream>
+
+1679220946 source:h:\cppblocks\mygame1\textnote.cpp
+	"TextNote.h"
+
+1679198146 source:h:\cppblocks\mygame1\textobject.cpp
+	"TextObject.h"
+
+1682567696 source:h:\cppblocks\mygame1\threatsobject.cpp
+	"ThreatsObject.h"
+	"SDL.h"
+	<windows.h>
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+
